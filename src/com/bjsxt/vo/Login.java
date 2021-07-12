@@ -3,7 +3,7 @@ package com.bjsxt.vo;
 import java.util.List;
 
 public class Login {
-
+      /*wojiushiwo*/
 	private  String  welcome;
 	
 	private List<String>  nickNames;
